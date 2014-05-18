@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1330131536 source:f:\code\computer graphics i\assignment_3\as_3\main.cpp
+	<iostream>
+	<stdlib.h>
+	"loadModel.h"
+	<vector>
+	<GL/glut.h>
+
+1330066512 source:f:\code\computer graphics i\assignment_3\as_3\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330066555 f:\code\computer graphics i\assignment_3\as_3\loadmodel.h
+	<string>
+	<vector>
+
+1330066512 source:f:\code\computer graphics i\assignment_3\as_3  - 02.24\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330066555 f:\code\computer graphics i\assignment_3\as_3  - 02.24\loadmodel.h
+	<string>
+	<vector>
+
+1330146009 source:f:\code\computer graphics i\assignment_3\as_3  - 02.24\main.cpp
+	<iostream>
+	<stdlib.h>
+	"loadModel.h"
+	<vector>
+	<GL/glut.h>
+	"imageloader.h"
+
+1328124121 source:f:\code\computer graphics i\assignment_3\as_3  - 02.24\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1219428390 f:\code\computer graphics i\assignment_3\as_3  - 02.24\imageloader.h
+

@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1330131536 source:f:\code\computer graphics i\assignment_3\as_3\main.cpp
+	<iostream>
+	<stdlib.h>
+	"loadModel.h"
+	<vector>
+	<GL/glut.h>
+
+1330066512 source:f:\code\computer graphics i\assignment_3\as_3\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330066555 f:\code\computer graphics i\assignment_3\as_3\loadmodel.h
+	<string>
+	<vector>
+
+1330066512 source:f:\code\computer graphics i\assignment_3\as_3  - 02.24\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+	<iomanip>
+
+1330066555 f:\code\computer graphics i\assignment_3\as_3  - 02.24\loadmodel.h
+	<string>
+	<vector>
+
+1330146009 source:f:\code\computer graphics i\assignment_3\as_3  - 02.24\main.cpp
+	<iostream>
+	<stdlib.h>
+	"loadModel.h"
+	<vector>
+	<GL/glut.h>
+	"imageloader.h"
+
+1328124121 source:f:\code\computer graphics i\assignment_3\as_3  - 02.24\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1219428390 f:\code\computer graphics i\assignment_3\as_3  - 02.24\imageloader.h
+
+1330372325 source:f:\code\computer graphics i\assignment_3\as_3  - 02.25\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1330372363 f:\code\computer graphics i\assignment_3\as_3  - 02.25\loadmodel.h
+	<string>
+	<vector>
+
+1330372354 source:f:\code\computer graphics i\assignment_3\as_3  - 02.25\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 f:\code\computer graphics i\assignment_3\as_3  - 02.25\imageloader.h
+
+1335758434 source:f:\code\computer graphics i\assignment_3\as_3  - 02.25\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<GL/glut.h>
+	"loadModel.h"
+	"imageloader.h"
+
+1330368725 source:d:\code\computer graphics i\assignment_3\as_3  - 02.25\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1330368763 d:\code\computer graphics i\assignment_3\as_3  - 02.25\loadmodel.h
+	<string>
+	<vector>
+
+1330368754 source:d:\code\computer graphics i\assignment_3\as_3  - 02.25\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330366779 d:\code\computer graphics i\assignment_3\as_3  - 02.25\imageloader.h
+
+1346729056 source:d:\code\computer graphics i\assignment_3\as_3  - 02.25\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<GL/glut.h>
+	"loadModel.h"
+	"imageloader.h"
+

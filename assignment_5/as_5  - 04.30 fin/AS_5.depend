@@ -1,0 +1,446 @@
+# depslib dependency file v1.0
+1333316749 source:f:\code\computer graphics i\assignment_5\as_4  - 03.31\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 f:\code\computer graphics i\assignment_5\as_4  - 03.31\loadmodel.h
+	<string>
+	<vector>
+
+1334067135 source:f:\code\computer graphics i\assignment_5\as_4  - 03.31\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glut.h>
+	"loadModel.h"
+	"imageloader.h"
+	<math.h>
+
+1330370379 f:\code\computer graphics i\assignment_5\as_4  - 03.31\imageloader.h
+
+1330372354 source:f:\code\computer graphics i\assignment_5\as_4  - 03.31\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1333316749 source:f:\code\computer graphics i\assignment_5\as_5  - 04.23\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 f:\code\computer graphics i\assignment_5\as_5  - 04.23\loadmodel.h
+	<string>
+	<vector>
+
+1330372354 source:f:\code\computer graphics i\assignment_5\as_5  - 04.23\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 f:\code\computer graphics i\assignment_5\as_5  - 04.23\imageloader.h
+
+1334630801 source:f:\code\computer graphics i\assignment_5\as_5  - 04.23\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335236311 source:f:\code\computer graphics i\assignment_5\as_5  - 04.23\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"textfile.h"
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1105259896 f:\code\computer graphics i\assignment_5\as_5  - 04.23\textfile.h
+
+1335279397 f:\code\computer graphics i\assignment_5\as_5  - 04.23\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+
+1335279429 source:f:\code\computer graphics i\assignment_5\as_5  - 04.23\trivial.cpp
+	"Trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+
+1330372354 source:f:\code\computer graphics i\assignment_5\as_5  - 04.24\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 f:\code\computer graphics i\assignment_5\as_5  - 04.24\imageloader.h
+
+1333316749 source:f:\code\computer graphics i\assignment_5\as_5  - 04.24\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 f:\code\computer graphics i\assignment_5\as_5  - 04.24\loadmodel.h
+	<string>
+	<vector>
+
+1334630801 source:f:\code\computer graphics i\assignment_5\as_5  - 04.24\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335729276 source:f:\code\computer graphics i\assignment_5\as_5  - 04.24\trivial.cpp
+	"Trivial.h"
+	"imageloader.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	"textfile.h"
+
+1335729276 f:\code\computer graphics i\assignment_5\as_5  - 04.24\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	"imageloader.h"
+
+1335729146 source:f:\code\computer graphics i\assignment_5\as_5  - 04.24\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1105259896 f:\code\computer graphics i\assignment_5\as_5  - 04.24\textfile.h
+
+1330372354 source:f:\code\computer graphics i\assignment_5\as_5  - 04.29\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 f:\code\computer graphics i\assignment_5\as_5  - 04.29\imageloader.h
+
+1333316749 source:f:\code\computer graphics i\assignment_5\as_5  - 04.29\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 f:\code\computer graphics i\assignment_5\as_5  - 04.29\loadmodel.h
+	<string>
+	<vector>
+
+1334630801 source:f:\code\computer graphics i\assignment_5\as_5  - 04.29\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335739921 source:f:\code\computer graphics i\assignment_5\as_5  - 04.29\trivial.cpp
+	"Trivial.h"
+	"imageloader.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"textfile.h"
+
+1335739946 f:\code\computer graphics i\assignment_5\as_5  - 04.29\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	"imageloader.h"
+	<string>
+
+1105259896 f:\code\computer graphics i\assignment_5\as_5  - 04.29\textfile.h
+
+1335762710 source:f:\code\computer graphics i\assignment_5\as_5  - 04.29\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1330372354 source:f:\code\computer graphics i\assignment_5\as_5  - 04.30\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 f:\code\computer graphics i\assignment_5\as_5  - 04.30\imageloader.h
+
+1333316749 source:f:\code\computer graphics i\assignment_5\as_5  - 04.30\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 f:\code\computer graphics i\assignment_5\as_5  - 04.30\loadmodel.h
+	<string>
+	<vector>
+
+1343350765 source:f:\code\computer graphics i\assignment_5\as_5  - 04.30\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1335824670 f:\code\computer graphics i\assignment_5\as_5  - 04.30\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	"imageloader.h"
+	<string>
+
+1334630801 source:f:\code\computer graphics i\assignment_5\as_5  - 04.30\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335824789 source:f:\code\computer graphics i\assignment_5\as_5  - 04.30\trivial.cpp
+	"Trivial.h"
+	"imageloader.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"textfile.h"
+
+1105259896 f:\code\computer graphics i\assignment_5\as_5  - 04.30\textfile.h
+
+1330372354 source:c:\users\aria\desktop\as_5  - 04.30\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 c:\users\aria\desktop\as_5  - 04.30\imageloader.h
+
+1333316749 source:c:\users\aria\desktop\as_5  - 04.30\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 c:\users\aria\desktop\as_5  - 04.30\loadmodel.h
+	<string>
+	<vector>
+
+1334630801 source:c:\users\aria\desktop\as_5  - 04.30\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335824789 source:c:\users\aria\desktop\as_5  - 04.30\trivial.cpp
+	"Trivial.h"
+	"imageloader.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"textfile.h"
+
+1335824670 c:\users\aria\desktop\as_5  - 04.30\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	"imageloader.h"
+	<string>
+
+1105259896 c:\users\aria\desktop\as_5  - 04.30\textfile.h
+
+1343350093 source:c:\users\aria\desktop\as_5  - 04.30\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1330372354 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330370379 d:\code\computer graphics i\assignment_5\as_5  - 04.30\imageloader.h
+
+1333316749 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332773886 d:\code\computer graphics i\assignment_5\as_5  - 04.30\loadmodel.h
+	<string>
+	<vector>
+
+1348166931 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1335824670 d:\code\computer graphics i\assignment_5\as_5  - 04.30\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	"imageloader.h"
+	<string>
+
+1334630801 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1335824789 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30\trivial.cpp
+	"Trivial.h"
+	"imageloader.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"textfile.h"
+
+1105259896 d:\code\computer graphics i\assignment_5\as_5  - 04.30\textfile.h
+
+1330368754 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1330366779 d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\imageloader.h
+
+1333313149 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\loadmodel.cpp
+	"loadModel.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<math.h>
+
+1332770286 d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\loadmodel.h
+	<string>
+	<vector>
+
+1359583636 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	<math.h>
+	"loadModel.h"
+	"imageloader.h"
+	"Trivial.h"
+
+1351260774 d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\trivial.h
+	<vector>
+	<GL/glew.h>
+	<GL/glut.h>
+	"imageloader.h"
+	<string>
+
+1334627201 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\textfile.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1353271327 source:d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\trivial.cpp
+	"Trivial.h"
+	"imageloader.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"textfile.h"
+
+1105256296 d:\code\computer graphics i\assignment_5\as_5  - 04.30 fin\textfile.h
+

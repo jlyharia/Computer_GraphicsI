@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1383373574 source:d:\dropbox\code\computer graphics\computer graphics i\assignment_2\as_2 - 2012.02.11\main.cpp
+	<GL/glut.h>
+	<time.h>
+
